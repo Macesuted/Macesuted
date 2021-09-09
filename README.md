@@ -2,7 +2,7 @@
 
 I'm Macesuted, a Chinese student in senior high.
 
-You can contact me at Macesuted#7049 on Discord or 1912192337 on QQ.
+You can contact me at `macesuted@outlook.com`.
 
 [My Blog](https://macesuted.cn)
 
