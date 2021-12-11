@@ -2,7 +2,7 @@
 
 I'm Macesuted, a Chinese student in senior high.
 
-You can contact me at `macesuted@outlook.com`.
+You can contact me at `i@macesuted.moe`.
 
 [My Blog](https://macesuted.cn)
 
