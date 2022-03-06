@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Macesuted, a Chinese student in senior high.
+I'm Macesuted, a normal Chinese student in senior high.
 
 You can contact me at `i@macesuted.moe`.
 
