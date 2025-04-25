@@ -1,7 +1,7 @@
-## Hi👋, I am Macesuted!
+# Hi👋, I am Macesuted!
 
 - 🎓 Undergrad @ Fudan University, School of Computer Science (Class of 2024– )  
-- 💻 Competitive Programming Team Lead (2024– ) & Contestant @ Fudan University  
+- 💻 Lead of Fudan University Competitive Programming Team (2024– ) & Contestant  
   - ICPC Asia Regional: 🥇🥇 + 🌟🥇🥇  
   - CCPC Regional: 🥇  
 - 🚀 Co-admin of [HydroOJ](https://hydro.ac/), a modern online judge for competitive programming  
