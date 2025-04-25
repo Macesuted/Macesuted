@@ -1,6 +1,5 @@
-### Hi👋, I am Macesuted!
+## Hi👋, I am Macesuted!
 
-I am...
 - 🎓 Undergrad @ Fudan University, School of Computer Science (Class of 2024– )  
 - 💻 Competitive Programming Team Lead (2024– ) & Contestant @ Fudan University  
   - ICPC Asia Regional: 🥇🥇 + 🌟🥇🥇  
