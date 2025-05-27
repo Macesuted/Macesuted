@@ -4,6 +4,7 @@
 - 💻 Lead of Fudan University Competitive Programming Team (2024– ) & Contestant  
   - ICPC Asia Regional: 🥇🥇 + 🌟🥇🥇  
   - CCPC Regional: 🥇  
+  - CCPC Final: 🥈  
 - 🚀 Co-admin of [HydroOJ](https://hydro.ac/), a modern online judge for competitive programming  
 - 🌱 ...and always exploring more at the edge of code and creativity
 
